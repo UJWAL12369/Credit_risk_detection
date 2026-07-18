@@ -176,29 +176,6 @@ German_Credit/
 └── notebook.ipynb
 ```
 
----
-
-## Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/German-Credit-Risk-Prediction.git
-```
-
-Move into the project directory
-
-```bash
-cd German-Credit-Risk-Prediction
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Running the Streamlit App
 
