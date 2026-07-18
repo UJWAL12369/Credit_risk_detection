@@ -173,7 +173,6 @@ German_Credit/
 ├── target_encoder.pkl
 ├── requirements.txt
 ├── README.md
-└── notebook.ipynb
 ```
 
 
